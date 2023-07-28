@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Arajit Ghosh</h1>
 <h3 align="center">I’m an engineer with coding and technology in my mind and work.</h3>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajit010&label=Profile%20views&color=0e75b6&style=flat" alt="arajit010" /> </p>
 
-- 🔭 I’m currently working on [Vehicle_Insurance_Claim_Fraud_Detection](https://github.com/arajit010/Vehicle_Insurance_Claim_Fraud_Detection)
+- 🔭 I’m currently working on [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
+
+- 🌱 I’m currently learning **Machine Learning, Deep Learning and Cloud**
+
+- 🤝 I’m looking for help with [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arajit010](https://github.com/arajit010)
 
 - 💬 Ask me about **Machine Learning, Deep Learning and Java**
 
 - 📫 How to reach me **arajit861897@gmail.com**
+
+- ⚡ Fun fact **😂🤓🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
