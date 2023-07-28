@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arajit Ghosh</h1>
 <h3 align="center">I’m an engineer with coding and technology in my mind and work.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2BwX-ZSjukBcV7wX4_wMdd&ust=1690610231081000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCO0YPcsIADFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajit010&label=Profile%20views&color=0e75b6&style=flat" alt="arajit010" /> </p>
 
