@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arajit Ghosh</h1>
 <h3 align="center">I’m an engineer with coding and technology in my mind and work.</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-25731151">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/view/coding-gif-25731151](https://drive.google.com/file/d/1-CaB4FFOQHAqyZkD3XQoxjcJegRnIRGQ/view?usp=sharing)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajit010&label=Profile%20views&color=0e75b6&style=flat" alt="arajit010" /> </p>
 
