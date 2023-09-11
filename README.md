@@ -6,13 +6,11 @@
 
 - 🔭 I’m currently working on [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning and Cloud**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for help with [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arajit010](https://github.com/arajit010)
-
-- 💬 Ask me about **Machine Learning, Deep Learning and Java**
 
 - 📫 How to reach me **arajit861897@gmail.com**
 
