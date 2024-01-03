@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajit010&label=Profile%20views&color=0e75b6&style=flat" alt="arajit010" /> </p>
 
-- 🔭 I’m currently working on [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
+- 🔭 I’m currently working on [Stock-Price-Prediction-Using-LSTM](Stock-Price-Prediction-Using-LSTM)
 
 - 🌱 I’m currently learning **Machine Learning**
-
-- 🤝 I’m looking for help with [Vehicle_Insurance_Claim_Fraud_Detection](Vehicle_Insurance_Claim_Fraud_Detection)
 
 - 👨‍💻 All of my projects are available at [https://github.com/arajit010](https://github.com/arajit010)
 
