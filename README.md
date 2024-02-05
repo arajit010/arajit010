@@ -4,15 +4,13 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=arajit010&label=Profile%20views&color=0e75b6&style=flat" alt="arajit010" /> </p> -->
 
-- 🔭 I’m currently working on ([Stock-Price-Prediction-Using-LSTM](https://github.com/arajit010/Stock-Price-Prediction-Using-LSTM)).
+- 🔭 I’m currently working on ([Stock-Price-Prediction-Using-LSTM](https://github.com/arajit010/Stock-Price-Prediction-Using-LSTM)) and ([Currency Converter](https://github.com/arajit010/HTML_CSS_JS_files/tree/main/Currency)).
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning Machine Learning and Complete Web Development.
 
 - 👨‍💻 All of my projects are available at [https://github.com/arajit010](https://github.com/arajit010)
 
 - 📫 How to reach me **arajit861897@gmail.com**
-
-- ⚡ Fun fact **😂🤓🤣**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
